@@ -1,7 +1,8 @@
 This document summarizes what we learned in the first lecture about designing a System-on-Chip (SoC). Think of it as a three-step journey to turn a design idea into a physical chip.
 
 Phase 1: Planning and High-Level Design
-Before building anything, we start with a high-level plan. We use the C programming language to create a simple, working model of the chip. This is like drawing a detailed blueprint to make sure our plan works before we start the actual construction.
+Before building anything, we start with a high-level plan. We use the C programming language to create a simple, working model of the chip.
+This is like drawing a detailed blueprint to make sure our plan works before we start the actual construction.
 
 Phase 2: Building with Code
 This is where we turn our plan into hardware code.
